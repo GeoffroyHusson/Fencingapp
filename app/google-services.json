@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "172163141459",
+    "firebase_url": "https://fencing-app-eb451.firebaseio.com",
+    "project_id": "fencing-app-eb451",
+    "storage_bucket": "fencing-app-eb451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172163141459:android:3af88f451a7d8dac",
+        "android_client_info": {
+          "package_name": "com.fencingapp.fencingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172163141459-nbu0nn7goob0p9efv0qubh9qi120uf8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fencingapp.fencingapp",
+            "certificate_hash": "b749a56fb2d5c1cbf4dff9fba01c8ed517671d1f"
+          }
+        },
+        {
+          "client_id": "172163141459-akevpen0v8l9mg75ksmm0p4q2guu6rht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAWS6gDe1yAxszNByEu2ZjhHyq4c0JOZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172163141459-akevpen0v8l9mg75ksmm0p4q2guu6rht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

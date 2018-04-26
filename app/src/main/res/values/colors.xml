@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <color name="baby_sitting">#a6bcc0</color>
+    <color name="jardinage">#8cb361</color>
+    <color name="bricolage">#9eb49b</color>
+    <color name="animaux">#8db0cd</color>
+    <color name="menage">#a7a39b</color>
+    <color name="informatique">#d0bf8f</color>
+    <color name="cours">#FC7F26</color>
+    <color name="transport">#d26567</color>
+
+
+    <color name="bleu_prix_temps">#879cb1</color>
+    <color name="bleu_date_post">#526370</color>
+
+    <color name="orange_listminut">#FC7F26</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="date_color">#999999</color>
+    <color name="black">#000000</color>
+    <color name="gray">#999999</color>
+    <color name="gray_listminut_dark">#525b5f</color>
+    <color name="gray_listminut_light">#6a757a</color>
+    <color name="gray_listminut_task_time">#D1CDCD</color>
+    <color name="gray_listminut_task_title">#465661</color>
+    <color name="gray_listminut_task_price">#B9B2B2</color>
+    <color name="blue">#0066cc</color>
+    <color name="light_blue">#97d0dc</color>
+    <color name="gold">#e6b121</color>
+    <color name="blueback">#99FFFF</color>
+    <color name="articlecolor">#3399FF</color>
+    <color name="article_title">#3399FF</color>
+    <color name="cachecolor">#8ad0e8</color>
+    <color name="red">#ff0000</color>
+
+    <drawable name="orange_listminut">#FC7F26</drawable>
+    <drawable name="white">#ffffff</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="date_color">#999999</drawable>
+    <drawable name="black">#000000</drawable>
+    <drawable name="gray">#999999</drawable>
+    <drawable name="gray_listminut_dark">#525b5f</drawable>
+    <drawable name="blue">#0066cc</drawable>
+    <drawable name="gold">#e6b121</drawable>
+    <drawable name="blueback">#99FFFF</drawable>
+    <drawable name="articlecolor">#3399FF</drawable>
+    <drawable name="article_title">#3399FF</drawable>
+    <drawable name="cachecolor">#8ad0e8</drawable>
+</resources>
